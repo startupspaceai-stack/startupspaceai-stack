@@ -1,7 +1,7 @@
 <!-- Mahesh Mandla | GitHub Profile README -->
 <h1 align="center">Hi 👋, I'm Mahesh Mandla</h1>
 <p align="center">
-Sr. BIE & Sr. Business Analyst • Analytics & Program Leader • SaaS Builder • Innovator • AI-Driven Business Intelligence & Product Strategy
+Sr. BIE & Sr. BA • Analytics & Program Leader • SaaS Builder • AI-Driven Business Intelligence & Product Strategy • Innovator
 </p>
 <p align="center">
 <!--   <a href="https://www.maheshmandla.com"><img alt="Website" src="https://img.shields.io/badge/Portfolio-maheshmandla.com-informational?logo=vercel"></a> -->
@@ -46,10 +46,10 @@ Sr. BIE & Sr. Business Analyst • Analytics & Program Leader • SaaS Builder �
 
 
 ### 📂 Featured Projects
-- 🤖 **Snap2Talk** — AI-powered insight agent transforming unstructured data into conversational insights.  
+<!--- 🤖 **Snap2Talk** — AI-powered insight agent transforming unstructured data into conversational insights.  
 - 💬 **Symbio** — A SaaS MVP connecting data pipelines with actionable business recommendations.  
 - 📈 **AutoMetrics** — Lightweight BI tool prototype for cost analytics automation.  
-
+-->
 | Project | What it is | Stack / Role |
 |---|---|---|
 | **DolfinDeck** • [Live Demo](https://www.dolfindeck.com)| Social discussion app for thoughtful dialogue | Next.js, n8n, Supabase • PM + Builder |
@@ -93,4 +93,5 @@ Sr. BIE & Sr. Business Analyst • Analytics & Program Leader • SaaS Builder �
 </p>
 
 > *“Building AI first products to ease human effort”*
+
 
