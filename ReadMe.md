@@ -52,14 +52,14 @@ Sr. BIE & Sr. BA • Analytics & Program Leader • SaaS Builder • AI-Driven B
 -->
 | Project | What it is | Stack / Role |
 |---|---|---|
-| **DolfinDeck** • [Live Demo](https://www.dolfindeck.com)| Social discussion app for thoughtful dialogue | Next.js, n8n, Supabase • PM + Builder |
+| **DolfinDeck** • [Live Demo](https://www.dolfindeck.com)| BI Analytics for HealthCare | Next.js, n8n, Supabase • PM + Builder |
 | **[PetFlix](https://github.com/startupspaceai-stack/petflix)** • [Live Demo](https://www.petflix.live) | Social media app for all Pet Owners |  React.js, TypeScript,  Supabase • PM + Builder  |
 
 ---
 
 ### 🌱 What I’m Exploring
+- 🧩 Building AI agents & AI SaaS products
 - 🧠 AI integration with BI platforms  
-- 🧩 Building lightweight AI agents & AI SaaS for product analytics  
 
 ---
 
@@ -93,5 +93,6 @@ Sr. BIE & Sr. BA • Analytics & Program Leader • SaaS Builder • AI-Driven B
 </p>
 
 > *“Building AI first products to ease human effort”*
+
 
 
