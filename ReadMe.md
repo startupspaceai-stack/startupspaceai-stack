@@ -1,96 +1,98 @@
 <!-- Mahesh Mandla | GitHub Profile README -->
 <h1 align="center">Hi 👋, I'm Mahesh Mandla</h1>
-<h3 align="center">AI-Driven Analytics & Program Leader | Ex-Amazon | Global E-Commerce & Supply Chain Specialist</h3>
-
----
-
-### 🌐 About Me
-
-I’m a **data-driven professional** with **11 years of experience at Amazon** across **North America, MENA, Europe, and India**, leading large-scale initiatives in **Business Intelligence, Product Analytics, and Program Management**.  
-
-My career has been a journey through **catalog systems, supply chains, and product launches** — using **data, automation, and AI** to turn ambiguity into measurable impact.
-
-> I bridge the gap between **business strategy, analytics engineering, and scalable execution.**
-
----
-
-### 🧠 What I Do Best
-
-#### 🧩 Analytics & Intelligence
-- Design and automate BI systems using **SQL, Python, Tableau, QuickSight**
-- Build **ETL pipelines** and **KPI frameworks** that drive executive decisions
-- Develop analytics dashboards and reporting automation for large networks (110+ warehouses)
-
-#### 🚀 Program & Product Management
-- Managed multi-country product launches (UAE, KSA, Egypt)
-- Drove **data-centric product roadmaps** and **Agile execution**
-- Delivered projects saving over **$4M in operational costs**
-
-#### 🏗️ Engineering & Cloud
-- Experienced with **AWS Stack:** Redshift, Lambda, S3, DynamoDB, Aurora  
-- Implemented **AI-driven analytics workflows** integrating GenAI models  
-- Build MVPs & internal tools to streamline decision pipelines
-
----
-
-### 🛠️ Tools & Tech I’ve Worked With
-
-| Category | Stack |
-|-----------|-------|
-| **Languages** | SQL, Python (Pandas, NumPy), R |
-| **BI Tools** | Tableau, Amazon QuickSight, Power BI |
-| **Cloud** | AWS (Redshift, S3, Lambda, Aurora, DynamoDB), GCP |
-| **Data Engineering** | ETL, Data Warehousing, Automation Pipelines |
-| **Project Tools** | JIRA, Confluence, Trello, Asana |
-| **Methodologies** | Agile, Scrum, Lean, Six Sigma |
-| **Emerging Focus** | GenAI Integration, AI Agents, Analytics Automation |
-
----
-
-### 🏢 Amazon Highlights
-
-| Function | Impact |
-|-----------|---------|
-| **MENA Product Launch (UAE, KSA, Egypt)** | Drove catalog readiness & translation programs improving coverage by 260 bps |
-| **Fulfillment Network (NA)** | Led key analytics workstreams across 110+ warehouses — optimized cost & capacity |
-| **Program Management (Logistics & Supply Chain)** | Delivered projects saving $1.8M–$2.5M through network optimization |
-| **Process Improvement (Ops & CX)** | Lean & Six Sigma projects reducing seller contacts 4% and return rates 9% |
-
----
-
-### 🌍 Global Reach
-
-🗺️ Regions Worked: **North America | MENA | Europe | India**  
-🤝 Stakeholder Collaboration: **Directors, VPs, cross-functional tech and ops teams**  
-🧭 Leadership Style: **Analytical, structured, customer-backward, outcome-oriented**
-
----
-
-### ⚡ Fun Stuff & Projects
-
-- 🧠 Building **Snap2Talk** – an AI-powered interaction engine for quick insights  
-- 🤖 Prototyping **Symbio** – a data-driven decision-assist SaaS concept  
-- 💬 Exploring **AI agents & automation** for e-commerce analytics  
-- 🏃 Sprinter & Strength Coach | Training youth athletes for competitive sports  
-
----
-
-### 📫 Connect With Me
+<h3 align="center">🚀 Senior Analytics & Program Leader | Ex-Amazon | AI-Driven Business Intelligence & Product Strategy</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/maheshmandla9/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:maheshmandla@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=maheshmandla&label=Profile%20views&color=0e75b6&style=flat" alt="maheshmandla" />
 </p>
 
 ---
 
+### 💫 About Me  
+🔹 11 years of experience at **Amazon**, delivering large-scale analytics, product launches, and automation initiatives across **North America, MENA, Europe, and India**.  
+🔹 I specialize in **Business Intelligence, Program Management, and AI-driven decision systems**.  
+🔹 Passionate about **building scalable data platforms**, **BI automation**, and **data-to-strategy transformation**.  
+🔹 Worked across e-commerce, logistics, catalog, and supply chain domains.  
+🔹 Currently exploring **AI Agents, SaaS MVPs, and Data Product innovation**.  
+
+---
+
+### 💻 Tech Stack
 <p align="center">
-  <i>“Turning complex data problems into clear business outcomes.”</i>
+  <img src="https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/QuickSight-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
+### 🧠 Expertise Areas
+- 📊 **Business Intelligence & Analytics Engineering**  
+  Design and automate BI ecosystems for multi-market operations using SQL, Python, Tableau, and AWS.  
+- ⚙️ **Program & Product Management**  
+  Delivered multi-region marketplace launches and cross-functional initiatives across logistics, supply chain, and catalog operations.  
+- 💡 **AI-Driven Decisioning**  
+  Building AI-powered analytics workflows and exploring GenAI use cases in data storytelling & process automation.  
+- 🌍 **Cross-Functional Leadership**  
+  Collaborated with VPs, Directors, and global product teams across Amazon’s operations network.  
+
+---
+
+### 🏆 Key Achievements
+- 💼 **Amazon MENA Product Launch** – Delivered successful marketplace launches (UAE, KSA, Egypt) improving catalog readiness by +260 bps.  
+- 📦 **Supply Chain Optimization** – Drove projects saving **$4.5M+** through analytics-led process improvement and automation.  
+- 🧱 **BI Infrastructure Development** – Built ETL pipelines, KPI frameworks, and dashboards supporting 110+ warehouses.  
+- ⚡ **Operational Excellence** – Implemented Lean, Six Sigma, and Kaizen projects reducing defects and seller contacts by 4%.  
+
+---
+
+### 📂 Featured Projects
+- 🤖 **Snap2Talk** — AI-powered insight agent transforming unstructured data into conversational insights.  
+- 💬 **Symbio** — A SaaS MVP connecting data pipelines with actionable business recommendations.  
+- 📈 **AutoMetrics** — Lightweight BI tool prototype for cost analytics automation.  
+
+---
+
+### 🌱 What I’m Exploring
+- 🧠 Generative AI integration with BI platforms  
+- ☁️ Cloud-native analytics automation using AWS & GCP  
+- 🧩 Building lightweight AI agents for product analytics  
+
+---
+
+### 💬 Let's Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/maheshmandla9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:maheshmandla@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+### ⚡ Fun Fact  
+🏃 I’m a **100m sprinter** & **strength coach**, passionate about performance optimization — both in people and systems!  
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maheshmandla&show_icons=true&theme=tokyonight" alt="Mahesh Mandla's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheshmandla&theme=tokyonight" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+### 🏅 Visitor Count
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{maheshmandla}/count.svg" alt="maheshmandla :: Visitor's Count" />
+</p>
+
+---
+
+⭐️ From [Mahesh Mandla](https://github.com/maheshmandla)
