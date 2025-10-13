@@ -50,10 +50,10 @@ Sr. BIE & Sr. BA • Analytics & Program Leader • SaaS Builder • AI-Driven B
 - 💬 **Symbio** — A SaaS MVP connecting data pipelines with actionable business recommendations.  
 - 📈 **AutoMetrics** — Lightweight BI tool prototype for cost analytics automation.  
 -->
-| Project | What it is | Stack / Role |
-|---|---|---|
-| **DolfinDeck** • [Live Demo](https://www.dolfindeck.com)| BI Analytics for HealthCare | Next.js, n8n, Supabase • PM + Builder |
-| **[PetFlix](https://github.com/startupspaceai-stack/petflix)** • [Live Demo](https://www.petflix.live) | Social media app for all Pet Owners |  React.js, TypeScript,  Supabase • PM + Builder  |
+| Project | What it is | Stack / Role | Status |
+|---|---|---|---|
+| **DolfinDeck** • [Live Demo](https://www.dolfindeck.com)| BI Analytics for HealthCare | Next.js, n8n, Supabase • PM + Builder | MVP WIP |
+<!---  | **[PetFlix](https://github.com/startupspaceai-stack/petflix)** • [Live Demo](https://www.petflix.live) | Social media app for all Pet Owners |  React.js, TypeScript,  Supabase • PM + Builder  | MVP WIP |  -->
 
 ---
 
@@ -93,6 +93,7 @@ Sr. BIE & Sr. BA • Analytics & Program Leader • SaaS Builder • AI-Driven B
 </p>
 
 > *“Building AI first products to ease human effort”*
+
 
 
 
