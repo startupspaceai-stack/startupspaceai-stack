@@ -17,7 +17,7 @@ Sr. BIE & Sr. BA • Analytics & Program Leader • SaaS Builder • AI-Driven B
 🔹 Specialized in **Business Intelligence, Program Management, Business Analysis and AI-driven decision systems**.  
 🔹 Passionate about **building scalable data platforms**, **BI automation**, and **data-to-strategy transformation**.     
 🔹 **Process Improvements** – Drove projects saving **$4.5M+** through analytics-led process improvements and automation.  
-🔹 Currently exploring **AI Agents, SaaS MVPs, and Data Product innovation**.  
+🔹 Currently exploring **AI Agents, AI SaaS Products, and Data Product innovation**.  
 
 ---
 
@@ -93,6 +93,7 @@ Sr. BIE & Sr. BA • Analytics & Program Leader • SaaS Builder • AI-Driven B
 </p>
 
 > *“Building AI first products to ease human effort”*
+
 
 
 
