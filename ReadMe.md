@@ -1,7 +1,7 @@
 <!-- Mahesh Mandla | GitHub Profile README -->
 <h1 align="center">Hi 👋, I'm Mahesh Mandla</h1>
 <p align="center">
-Sr. BIE & Sr. BA • Analytics & Program Leader • SaaS Builder • AI-Driven Business Intelligence & Product Strategy • Innovator
+Sr. BIE & Sr. BA • Analytics & Program Leader • Innovator • SaaS Builder • AI-Driven Business Intelligence & Product Strategy 
 </p>
 <p align="center">
 <!--   <a href="https://www.maheshmandla.com"><img alt="Website" src="https://img.shields.io/badge/Portfolio-maheshmandla.com-informational?logo=vercel"></a> -->
@@ -52,8 +52,8 @@ Sr. BIE & Sr. BA • Analytics & Program Leader • SaaS Builder • AI-Driven B
 -->
 | Project | What it is | Stack / Role | Status |
 |---|---|---|---|
-| **DolfinDeck** • [Live Demo](https://www.dolfindeck.com)| BI Analytics for HealthCare | Next.js, n8n, Supabase • PM + Builder | MVP WIP |
-<!---  | **[PetFlix](https://github.com/startupspaceai-stack/petflix)** • [Live Demo](https://www.petflix.live) | Social media app for all Pet Owners |  React.js, TypeScript,  Supabase • PM + Builder  | MVP WIP |  -->
+| **DolfinDeck** • [Live Demo](https://www.dolfindeck.com)| BI Analytics for HealthCare | Next.js, n8n, Supabase • PM + Builder | MvP WIP |
+<!---  | **[PetFlix](https://github.com/startupspaceai-stack/petflix)** • [Live Demo](https://www.petflix.live) | Social media app for all Pet Owners |  React.js, TypeScript,  Supabase • PM + Builder  | MvP WIP |  -->
 
 ---
 
@@ -93,6 +93,7 @@ Sr. BIE & Sr. BA • Analytics & Program Leader • SaaS Builder • AI-Driven B
 </p>
 
 > *“Building AI first products to ease human effort”*
+
 
 
 
