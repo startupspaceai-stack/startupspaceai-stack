@@ -68,7 +68,7 @@ Sr. BIE & Sr. BA • Analytics & Program Leader • Innovator • SaaS Builder �
 🏃 I’m a **100m sprinter** & **strength coach**, passionate about performance optimization — both in people and systems!  
 
 ---
-
+<!-- 
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maheshmandla&show_icons=true&theme=tokyonight" alt="Mahesh Mandla's GitHub Stats" />
@@ -76,7 +76,7 @@ Sr. BIE & Sr. BA • Analytics & Program Leader • Innovator • SaaS Builder �
 </p>
 
 ---
-<!-- 
+
 ### 🏅 Visitor Count
 <p align="center">
   <img src="https://profile-counter.glitch.me/{maheshmandla}/count.svg" alt="maheshmandla :: Visitor's Count" />
@@ -93,6 +93,7 @@ Sr. BIE & Sr. BA • Analytics & Program Leader • Innovator • SaaS Builder �
 </p>
 
 > *“Building AI first products to ease human effort”*
+
 
 
 
