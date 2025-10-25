@@ -65,7 +65,7 @@ Sr. BIE & Sr. BA • Analytics & Program Leader • Innovator • SaaS Builder �
 
 ### ⚡ Fun Fact  
 - 🤿 I’m a **Licensed Scuba Diver**, curious about the 71% untouched terrian of this planet.
-- 🏃 I’m a **100m sprinter** & **strength coach**, passionate about engineering the human body's mechanics to it's ultimate potential.  
+- 🏃 I’m a **100m sprinter** & **strength coach**, passionate about engineering human body mechanics to it's ultimate potential.  
 
 ---
 <!-- 
@@ -93,6 +93,7 @@ Sr. BIE & Sr. BA • Analytics & Program Leader • Innovator • SaaS Builder �
 </p>
 
 > *“Building AI first products to ease human effort”*
+
 
 
 
