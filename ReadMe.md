@@ -52,7 +52,7 @@ Sr. BIE & Sr. BA • Analytics & Program Leader • Innovator • SaaS Builder �
 -->
 | Project | What it is | Stack / Role | Status |
 |---|---|---|---|
-| **DolfinDeck** • [Live Demo](https://www.dolfindeck.com)| BI Analytics for HealthCare | Next.js, n8n, Supabase • PM + Builder | MvP WIP |
+| **DolfinDeck** • [Live Demo](https://www.dolfindeck.com)| BI Analytics for HealthCare | Next.js, TypeScript, n8n, Supabase • PM + Builder | MvP WIP |
 <!---  | **[PetFlix](https://github.com/startupspaceai-stack/petflix)** • [Live Demo](https://www.petflix.live) | Social media app for all Pet Owners |  React.js, TypeScript,  Supabase • PM + Builder  | MvP WIP |  -->
 
 ---
@@ -93,6 +93,7 @@ Sr. BIE & Sr. BA • Analytics & Program Leader • Innovator • SaaS Builder �
 </p>
 
 > *“Building AI first products to ease human effort”*
+
 
 
 
