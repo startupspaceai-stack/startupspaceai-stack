@@ -13,11 +13,11 @@ Sr. BIE & Sr. BA • Analytics & Program Leader • Innovator • SaaS Builder �
 ---
 
 ### 💫 About Me  
-🔹 11 years of experience at an **E-Commerce Giant**, delivering large-scale programs & products across **NA, MENA, EU & India**.  
-🔹 Specialized in **Business Intelligence, Program Management, Business Analysis and AI-driven decision systems**.  
+🔹 Over **a Decade** of experience at an **E-Commerce Giant**, delivering large-scale programs & products across **NA, MENA, EU & India**.  
+🔹 Specialized in **Analytics Engineering, Business Intelligence, AI-driven products, Program Management, and Business Analysis**.  
 🔹 Passionate about **building scalable data platforms**, **BI automation**, and **data-to-strategy transformation**.     
 🔹 **Process Improvements** – Drove projects saving **$4.5M+** through analytics-led process improvements and automation.  
-🔹 Currently exploring **AI Agents, AI SaaS Products, and Data Product innovation**.  
+🔹 Currently working on **AI Agents, AI SaaS Products, and Data Product innovation**.  
 
 ---
 
@@ -93,6 +93,7 @@ Sr. BIE & Sr. BA • Analytics & Program Leader • Innovator • SaaS Builder �
 </p>
 
 > *“Building AI first products to ease human effort”*
+
 
 
 
