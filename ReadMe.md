@@ -1,7 +1,6 @@
 <!-- Mahesh Mandla | GitHub Profile README -->
 <h1 align="center">Hi 👋, I'm Mahesh Mandla</h1>
-<p align="center">
-Sr. BIE & Sr. BA • Analytics & Program Leader • Innovator • SaaS Builder • AI-Driven Business Intelligence & Product Strategy 
+<p align="center"> Program & Analytics Leader • Innovator • AI SaaS Builder • Technical Program Management & Product Strategy
 </p>
 <p align="center">
 <!--   <a href="https://www.maheshmandla.com"><img alt="Website" src="https://img.shields.io/badge/Portfolio-maheshmandla.com-informational?logo=vercel"></a> -->
@@ -14,7 +13,7 @@ Sr. BIE & Sr. BA • Analytics & Program Leader • Innovator • SaaS Builder �
 
 ### 💫 About Me  
 🔹 Over **a Decade** of experience at an **E-Commerce Giant**, delivering large-scale programs & products across **NA, MENA, EU & India**.  
-🔹 Specialized in **Analytics Engineering, Business Intelligence, AI-driven products, Program Management, and Business Analysis**.  
+🔹 Specialized in **Analytics Engineering, Business Intelligence, Program management, AI-driven products, and Business Analysis**.  
 🔹 Passionate about **building scalable data platforms**, **BI automation**, and **data-to-strategy transformation**.     
 🔹 **Process Improvements** – Drove projects saving **$4.5M+** through analytics-led process improvements and automation.  
 🔹 Currently working on **AI Agents, AI SaaS Products, and Data Product innovation**.  
@@ -93,6 +92,7 @@ Sr. BIE & Sr. BA • Analytics & Program Leader • Innovator • SaaS Builder �
 </p>
 
 > *“Building AI first products to ease human effort”*
+
 
 
 
