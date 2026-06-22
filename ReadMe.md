@@ -35,13 +35,11 @@
 
 
 ---
-### 🛠️ My toolkit
+### 🛠️ My Toolkit
 **Data & Analytics:** SQL • R • ETL • Python(basic) • Tableau    
 **AWS Stack:** Redshift • DynamoDB (NoSQL) • S3 • AuroraDB    
-**Dev & Collab:** React • Next.js • TypeScript • Tailwind CSS • Supabase • GitHub    
-**AI Toolkit:** OpenAI • Claude • Cursor • n8n • Perplexity • Lovable 
-
----
+**Dev & Collab:** React • Next.js • Three.js • TypeScript • Tailwind CSS • Supabase • GitHub    
+**AI Toolkit:** Cursor • Claude Code • OpenAI • n8n • 
 
 
 ### 📂 Featured Projects
@@ -49,9 +47,11 @@
 - 💬 **Symbio** — A SaaS MVP connecting data pipelines with actionable business recommendations.  
 - 📈 **AutoMetrics** — Lightweight BI tool prototype for cost analytics automation.  
 -->
-| Project | What it is | Stack / Role | Status |
+| Project | What it is | Stack / Role | Description |
 |---|---|---|---|
-| **DolfinDeck** • [Live Demo](https://www.dolfindeck.com)| BI Analytics for HealthCare | Next.js, TypeScript, n8n, Supabase • PM + Builder | MvP WIP |
+| **DolfinDeck** • [Live Demo](https://www.dolfindeck.com)| BI Analytics for HealthCare | Next.js, TypeScript, n8n, Supabase • PM + Builder | MvP Completed |
+| **SeaSoccer** • [Live](https://www.seasoccer.xyz)| 3D Football Game | Three.js, Claude Code • PM + Builder | For FIFA 2026 |
+
 <!---  | **[PetFlix](https://github.com/startupspaceai-stack/petflix)** • [Live Demo](https://www.petflix.live) | Social media app for all Pet Owners |  React.js, TypeScript,  Supabase • PM + Builder  | MvP WIP |  -->
 
 ---
