@@ -5,8 +5,8 @@
 <p align="center">
 <!--   <a href="https://www.maheshmandla.com"><img alt="Website" src="https://img.shields.io/badge/Portfolio-maheshmandla.com-informational?logo=vercel"></a> -->
   <a href="https://www.linkedin.com/in/maheshmandla9"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-maheshmandla-blue?logo=linkedin"></a>
-  <a href="mailto:themaheshm9@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-themaheshm9%40gmail.com-red?logo=gmail"></a>
-  <a href="https://github.com/startupspaceai-stack?tab=repositories"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-startupspaceai-black?logo=github"></a>
+  <a href="mailto:realmahesh.ai@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-realmahesh.ai%40gmail.com-red?logo=gmail"></a>
+  <a href="https://github.com/maheshmandla9?tab=repositories"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-maheshmandla9-black?logo=github"></a>
 </p>
 
 ---
@@ -85,10 +85,10 @@
 ### 🌍 Connect
 <!--📌 [Portfolio](https://www.maheshmandla.com) •  -->
 💼 [LinkedIn](https://www.linkedin.com/in/maheshhmandla9) •  
-📧 Email: themaheshm9@gmail.com  
+📧 Email: realmahesh.ai@gmail.com  
 <p align="center">
   <a href="https://www.linkedin.com/in/maheshmandla9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:themaheshm9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:realmahesh.ai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 > *“Building AI first products to ease human effort”*
